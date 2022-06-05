@@ -1,0 +1,10 @@
+1. Encaptulation
+2. Abstraction
+3. Inheritance
+4. Polymorphism
+
+
+
+Encaptulation: একই টাইপের বা রিলেশনাল জিনিশগুলোকে একই জায়গায় আবদ্ধ করে বা বাইন্ড করে রাখা।
+Abstraction: ভেতরের অপারেশন গুলো হাইড করে রাখা
+Inheritance: 

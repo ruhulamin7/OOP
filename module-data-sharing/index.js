@@ -1,3 +1,6 @@
+var num1 = 50
+const num2 = 100
+
 const myStorage = {
   car: {
     inside: {
